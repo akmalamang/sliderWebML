@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "image": "/img/akali.jpg",
+      "title": "Mobile Legends",
+      "name": "Selena Women",
+      "avatar": "avatar/Akali_Avatar.png",
+      "role": "Mage / Assasin",
+      "description": "The Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her.",
+      "quote": "The iron will of the Abyss befalls."
+    },
+    {
+      "image": "img/claude.jpg",
+      "title": "Mobile Legends",
+      "name": "Claude",
+      "avatar": "avatar/Akali_Avatar.png",
+      "role": "Marksman brust",
+      "description": "Claude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains.",
+      "quote": "Los Pecados, Agelta Drylands"
+    },
+    {
+      "image": "img/gusion.jpg",
+      "title": "Mobile Legends",
+      "name": "Gusion",
+      "avatar": "avatar/Chou_Avatar.png",
+      "role": "Assassin/Mage",
+      "description": "He is known for his ability to attack quickly and utilize a combination of skills to provide high burst damage. Gusion has extraordinary mobility, allowing him to move quickly on the battlefield.",
+      "quote": "I'll be the blade in your hands"
+    },
+    {
+      "image": "img/hayabusa.jpg",
+      "title": "Mobile Legends",
+      "name": "hayabusa",
+      "avatar": "avatar/Chou_Avatar.png",
+      "role": "Assassin",
+      "description": "He is known as a ninja who has the extraordinary ability to kill enemies quickly and escape without a trace. Hayabusa excels in high mobility and the ability to outwit opponents using shadows.",
+      "quote": "The shadow will pierce you."
+    },
+    {
+      "image": "img/kagura.jpg",
+      "title": "Mobile Legends",
+      "name": "Kagura",
+      "avatar": "avatar/Chou_Avatar.png",
+      "role": "Mage",
+      "description": "He uses a magic umbrella called the Seimei Umbrella as his main weapon. Kagura is known for her extraordinary ability to provide burst damage from a distance and control enemy movements with crowd control abilities.",
+      "quote": "The shadow will pierce you."
+    }
+  ]
+}
